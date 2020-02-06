@@ -1,7 +1,7 @@
 name: "www"
 output_dir: "../docs"
 navbar:
-  title: "Your Name"
+  title: "Shehrbano Ibrahim and Jessica Keast"
   left:
     - text: "Home"
       icon: fa-home
@@ -22,7 +22,7 @@ navbar:
     - icon: fa-github
       href: http://www.github.com/beanumber
     - icon: fa-twitter
-      href: http://www.twitter.com/BaumerBen
+      href: http://www.twitter.com/shehrbanoibrahim 
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/ben-baumer-809b3a75
 
